@@ -1,5 +1,5 @@
 {
-  "name": "CYBERDOOM 1 // AGENT",
-  "description": "A high-fidelity, cyberpunk-themed terminal interface for the CYBERDOOM 1 AI agent. Features CRT effects, system monitoring, and direct neural-link communication via Gemini.",
+  "name": "cyberdoom.rf.gd agentic",
+  "description": "AI-powered web development platform. Chat with AI to build HTML/JS apps with realtime preview, code editing, and Firebase integration.",
   "requestFramePermissions": []
 }
